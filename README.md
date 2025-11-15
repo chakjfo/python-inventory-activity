@@ -5,11 +5,12 @@ Create a program that allows a user to add items to an inventory, update item pr
 
 Sample Output:
 
-<img width="236" height="251" alt="image" src="https://github.com/user-attachments/assets/637f8720-acd3-49e9-844e-cc438a93b4a2" />
+<img width="265" height="154" alt="image" src="https://github.com/user-attachments/assets/bc84e17c-3628-4bf6-b566-8e8bca316031" />
+
 
 Full Name:
 Pulido, Charish B.
 
 Running Program:
 
-<img width="260" height="480" alt="image" src="https://github.com/user-attachments/assets/21313597-a97b-4ca4-9d41-e17c16320c5d" />
+<img width="306" height="540" alt="image" src="https://github.com/user-attachments/assets/e4e7df2b-12ab-4169-a418-3b0d23189299" />
